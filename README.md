@@ -5,7 +5,7 @@
 This project is a single-page website that demonstrates dynamic navigation and smooth scrolling functionality based on the content sections present on the page. It aims to showcase the manipulation of the Document Object Model (DOM) using JavaScript to enhance user experience and interaction.
 
 ## Get Started
-###Technical Description
+### Technical Description
 To run and modify this project locally, follow these steps:
 1. Clone the Repository:
   git clone <repository-url>
